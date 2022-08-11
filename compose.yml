@@ -1,0 +1,6 @@
+version: "3.8"
+services:
+  dev:
+    build: .
+    stdin_open: true
+    tty: true
